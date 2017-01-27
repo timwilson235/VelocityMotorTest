@@ -1,8 +1,8 @@
 package org.usfirst.frc.team4183.robot.subsystems;
 
-import java.io.PrintWriter;
+import java.io.PrintWriter; 
 
-import com.ctre.CANTalon;
+import com.ctre.CANTalon; 
 
 public class TalonLogger extends LoggerBase {
 	
