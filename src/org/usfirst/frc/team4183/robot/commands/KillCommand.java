@@ -1,7 +1,6 @@
 package org.usfirst.frc.team4183.robot.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
-import edu.wpi.first.wpilibj.command.Scheduler;
 
 import org.usfirst.frc.team4183.robot.Robot;
 
